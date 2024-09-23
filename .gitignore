@@ -1,3 +1,5 @@
 dev/Lib/site-packages/
 *.dll
 *.pyd
+dev/Lib/site-packages/**/*.pyd
+dev/Lib/site-packages/**/*.dll
