@@ -3,3 +3,4 @@ dev/Lib/site-packages/
 *.pyd
 dev/Lib/site-packages/**/*.pyd
 dev/Lib/site-packages/**/*.dll
+dev/Lib/site-packages/**/*.so
